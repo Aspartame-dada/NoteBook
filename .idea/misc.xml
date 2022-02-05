@@ -3,8 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/MyCode/Project_Android/NoteBook/app/src/main/res/drawable-v24/ic_baseline_find_in_page_24.xml" value="0.190625" />
+        <entry key="..\:/MyCode/Project_Android/NoteBook/app/src/main/res/drawable-v24/ic_home_black_24dp.xml" value="0.190625" />
+        <entry key="..\:/MyCode/Project_Android/NoteBook/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.19322916666666667" />
+        <entry key="..\:/MyCode/Project_Android/NoteBook/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.19322916666666667" />
         <entry key="..\:/MyCode/Project_Android/NoteBook/app/src/main/res/drawable/ic_login_icon.xml" value="0.22777777777777777" />
         <entry key="..\:/MyCode/Project_Android/NoteBook/app/src/main/res/layout/activity_main.xml" value="0.22552083333333334" />
+        <entry key="..\:/MyCode/Project_Android/NoteBook/app/src/main/res/layout/activity_note.xml" value="0.2" />
+        <entry key="..\:/MyCode/Project_Android/NoteBook/app/src/main/res/layout/activity_note2.xml" value="0.17291666666666666" />
+        <entry key="..\:/MyCode/Project_Android/NoteBook/app/src/main/res/layout/fragment_dashboard.xml" value="0.17291666666666666" />
+        <entry key="..\:/MyCode/Project_Android/NoteBook/app/src/main/res/layout/fragment_first.xml" value="0.2453125" />
+        <entry key="..\:/MyCode/Project_Android/NoteBook/app/src/main/res/layout/fragment_home.xml" value="0.17291666666666666" />
+        <entry key="..\:/MyCode/Project_Android/NoteBook/app/src/main/res/layout/fragment_notifications.xml" value="0.17291666666666666" />
+        <entry key="..\:/MyCode/Project_Android/NoteBook/app/src/main/res/layout/fragment_second.xml" value="0.2453125" />
+        <entry key="..\:/MyCode/Project_Android/NoteBook/app/src/main/res/layout/fragment_third.xml" value="0.2453125" />
+        <entry key="..\:/MyCode/Project_Android/NoteBook/app/src/main/res/menu/menu.xml" value="0.2453125" />
       </map>
     </option>
   </component>

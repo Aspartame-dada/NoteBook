@@ -32,9 +32,6 @@ public class MainActivity extends AppCompatActivity {
             public void onSuccess() {
                 startActivity(new Intent(MainActivity.this,NoteActivity.class));
 
-
-
-
                 Log.d(TAG, "onSuccess:");
             }
 
